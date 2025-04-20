@@ -1,0 +1,18 @@
+Search results for 'taj':
+  page1.html: 7
+  page3.html: 1
+
+Search results for 'park':
+  page2.html: 26
+  page1.html: 1
+
+Search results for 'city':
+  page3.html: 9
+  page2.html: 5
+
+Search results for 'the':
+
+Hyperlinks in each page:
+page1.html links to: page2.html
+page2.html links to: page3.html
+page3.html links to: page1.html
